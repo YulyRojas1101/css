@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <title> página imagen</title>
+</head>
+<body>
+<h1><img src="C:/Users/casallas/Desktop/codigos%20yuly/ImagenConcierto/Imagenes/concert_logo.png" alt=" logo concierto"title="logo concierto"/> Tu Concierto </h1>
+<p>Bienvenidos a este blog de conciertos...</p>
+<img src="C:/Users/casallas/Desktop/codigos%20yuly/ImagenConcierto/Imagenes/concert.jpg" alt="imagen concierto" title="concierto" width="1000px"/>
+</body>
+</html>
